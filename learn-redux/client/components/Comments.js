@@ -1,5 +1,5 @@
 import React from 'react';
-import e from 'express';
+
 
 const Comments = React.createClass({
   renderComment(comment, i) {
